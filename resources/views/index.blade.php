@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <title>Chat App</title>
-  <link rel="icon" href="https://assets.edlin.app/favicon/favicon.ico"/>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- JavaScript -->
